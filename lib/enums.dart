@@ -1,0 +1,1 @@
+enum sortBy{type,shop,time}

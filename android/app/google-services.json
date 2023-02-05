@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269396250060",
+    "project_id": "weserveu-flutter",
+    "storage_bucket": "weserveu-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269396250060:android:7bce6bf1931e2dc3ae6169",
+        "android_client_info": {
+          "package_name": "com.weserveu.rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269396250060-s5f77sssgog9tpf92rgbuep0bsec7m07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-CGkkmP30eMQZGG7U1cLqy5EfgT4F7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269396250060-s5f77sssgog9tpf92rgbuep0bsec7m07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
